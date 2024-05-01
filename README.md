@@ -2,6 +2,8 @@
 
 ## [Report](./report/report_MI_eng.pdf)
 
+## The main goal of the project : detect toxic/offensive/inappropriate behaviour (in YouTube comments)
+
 ## Repository elements
 - Notebooks : .ipynb jupyter notebooks with experiments:
   - get_YT_data.ipynb - retrieving youtube comments (API credentials are hidden, by github's requirements)
