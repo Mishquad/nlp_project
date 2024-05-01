@@ -7,4 +7,6 @@
   - clusters and visual tsne.ipynb - getting ruBERT embeddings, clustering and visualising with t-SNE
 - data path - text file with used data on google drive (since github does not allow to upload large files)
     ![Sample image](./df_head.png)
-- Report - .pdf file with report 
+- Report - .pdf file with report
+
+## [Report](./report.pdf)
