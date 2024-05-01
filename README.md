@@ -1,8 +1,8 @@
 # NLP spring 2024 project
 
-## [Report](./report/report_MI_eng.pdf)
-
 ## The main goal of the project : detect toxic/offensive/inappropriate behaviour (in YouTube comments)
+
+## [Report](./report/report_MI_eng.pdf)
 
 ## Repository elements
 - Notebooks : .ipynb jupyter notebooks with experiments:
