@@ -40,7 +40,7 @@ Dataset includes 94360 comments unlabeled in the first place, but it was labeled
 | [Ю.В.Рубцова (2014) and Rogers et al. (2018)] | MLP Classifier | Sentiment analysis | 0.67 | 0.81 |
 | Present research | CatBoost | RuBERT embeddings, clustering topics as features (LDA and K-means) | 0.74 | 0.85 |
 
-
+Overall, according to table above, present research provides quite comparable (to related researches) quality for classic ML modeling, but not as good as builiding own neural network architecture with manual tagging with larger amount of data. That’s definetely what could be a ‘low-hanging fruit’ for next improvement.
 
 
 
