@@ -17,6 +17,10 @@
 
 Dataset includes 94360 comments unlabeled in the first place, but it was labeled by regular expressions that are found in mentioned related work, plus some of the words that were specific to the context of video-material. Those included all variations of obscenely offensive / abusive / profanity language.
 
+- example of what was marked as "positive"
+![Sample image](./data/pos.png)
+example of what was marked as "negative/toxic/offensive"
+![Sample image](./data/neg.png)
 
 ## Models and processing
 - LDA topics as features (number of topic)
