@@ -15,7 +15,7 @@
 
 ## Dataset info and examples
 
-Dataset includes 94360 comments unlabeled in the first place, but it was labeled by regular expressions that are found in mentioned related work, plus some of the words that were specific to the context of video-material. Those included all variations of obscenely offensive / abusive / profanity language.
+Dataset includes 94360 comments unlabeled in the first place, but it was labeled by regular expressions that are found in mentioned related work, plus some of the words were added to regex that were specific to the context of video-material that could be easily distinguished as offensive. Those included all variations of obscenely offensive / abusive / profanity language.
 
 - example of what was marked as "positive"
 ![Sample image](./data/pos.png)
