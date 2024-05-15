@@ -19,7 +19,7 @@ Dataset includes 94360 comments unlabeled in the first place, but it was labeled
 
 - example of what was marked as "positive"
 ![Sample image](./data/pos.png)
-example of what was marked as "negative/toxic/offensive"
+- example of what was marked as "negative/toxic/offensive"
 ![Sample image](./data/neg.png)
 
 ## Models and processing
